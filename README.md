@@ -17,6 +17,6 @@
 #[Project 5: Marketing Analysis Using KMeans Clustering](https://github.com/RyanRuddy/Marketing-Analysis-with-KMeans/blob/main/Marketing%20Analysis-KMeans%20Clustering.ipynb)
 
 # SQL Database Building and Querying
-#[Project 6 Part 1: Building a simple database-database modeling](https://github.com/RyanRuddy/SQL/blob/main/Country%20Database%20dbml)
+#[Project 6 Part 1: Building a Simple Database-Database Modeling](https://github.com/RyanRuddy/SQL/blob/main/Country%20Database%20dbml)
 
-#[Project 6 Part 2: Building a simple database-data tables](https://github.com/RyanRuddy/SQL/blob/main/Database%20Build.sql)
+#[Project 6 Part 2: Building a Simple Database-Data Tables](https://github.com/RyanRuddy/SQL/blob/main/Database%20Build.sql)
