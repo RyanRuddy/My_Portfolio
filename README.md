@@ -1,7 +1,7 @@
 # Ryan's Portfolio
 # Python Analytics
 ## Regression
-![Linear Regression](https://github.com/RyanRuddy/pics/blob/main/linear_reg.png)
+![Linear Regression](/blob/main/linear_reg.png)
 
 #[Project 1: Polynomial Regression to Predict Cost vs Units Sold](https://github.com/RyanRuddy/polynomial_regression/blob/main/Polynomial%20Regression-Predict%20Cost%20per%20Unit%20sold.ipynb)
 
