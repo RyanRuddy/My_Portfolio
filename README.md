@@ -21,6 +21,6 @@
 
 #[Project 6 Part 2: Building a Simple Database-Data Tables](https://github.com/RyanRuddy/SQL/blob/main/Database%20Build.sql)
 
-#[Project 1 Part 2: Querying ](https://github.com/RyanRuddy/SQL/blob/main/Unicorns%2C%20Values%2C%20and%20Crime%20by%20Country.sql)
+#[Project 7: Querying ](https://github.com/RyanRuddy/SQL/blob/main/Unicorns%2C%20Values%2C%20and%20Crime%20by%20Country.sql)
 
 
