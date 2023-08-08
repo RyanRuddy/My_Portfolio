@@ -10,11 +10,10 @@
 
 #[Project 4: Monte Carlo Simulation and Value at Risk Using Multiple Methods for a Portfolio and It's Withdrawls During Retirement](https://github.com/RyanRuddy/Monte-Carlo-Simulation/blob/main/Monte%20Carlo%20Simulation%20and%20Value%20at%20Risk-Portfolio%20Analysis%20Multi-Method.ipynb)
 
-![Clustering](https://github.com/RyanRuddy/pics/blob/main/KMeans.png)
-
 #[Project 5: Marketing Analysis Using KMeans Clustering](https://github.com/RyanRuddy/Marketing-Analysis-with-KMeans/blob/main/Marketing%20Analysis-KMeans%20Clustering.ipynb)
 
 # SQL Database Building and Querying
+
 #[Project 6 Part 1: Building a Simple Database-Database Modeling](https://github.com/RyanRuddy/SQL/blob/main/Country%20Database%20dbml)
 
 #[Project 6 Part 2: Building a Simple Database-Data Tables](https://github.com/RyanRuddy/SQL/blob/main/Database%20Build.sql)
