@@ -1,5 +1,5 @@
 # add the following to _config.yml file
 title: Ryan Ruddy
-logo: /Portfolio_Pictures/blob/main/AAP2022-8127.jpg
+logo: /assets/AAP2022-8127.jpg
 #show_downloads: true
 theme: jekyll-theme-minimal
