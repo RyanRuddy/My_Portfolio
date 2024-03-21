@@ -1,8 +1,8 @@
 # Ryan's Portfolio
 
 # Education
-## MBA Rollins College Crummer Graduate School of Business
-## Six Sigma Green Belt University of Michigan Nexus Engineering
+## MBA, Rollins College Crummer Graduate School of Business
+## Six Sigma Green Belt, University of Michigan Nexus Engineering
 
 # Python Analytics
 ## Regression
