@@ -27,9 +27,9 @@
 
 # SQL and Python Tranferring Data
 
-#[ETL Transferring Data from SQL Server to PostgreSQL ](https://github.com/RyanRuddy/SQL/blob/main/Transfer%20Data%20from%20SQL%20Server%20to%20PostGreSQL.py)
+#[ETL Transferring Data from SQL Server to PostgreSQL](https://github.com/RyanRuddy/SQL/blob/main/Transfer%20Data%20from%20SQL%20Server%20to%20PostGreSQL.py)
 
-#[ETL Transferring Data from SQL Server to PostgreSQL ](https://github.com/RyanRuddy/SQL/blob/main/Data%20Load%20-%20Stock%20Data-To%20SQL%20Server.ipynb)
+#[Taking Stock Data from the Yahoo Finane and Moving it Into a Table in a SQL Server Database](https://github.com/RyanRuddy/SQL/blob/main/Data%20Load%20-%20Stock%20Data-To%20SQL%20Server.ipynb)
 
 
 
