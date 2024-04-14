@@ -7,7 +7,7 @@
 # Python Analytics
 ## Regression
 
-#[Polynomial Regression to Predict Cost vs Units Sold](https://github.com/RyanRuddy/polynomial_regression/blob/main/Polynomial%20Regression-Predict%20Cost%20per%20Unit%20sold.ipynb)
+[Polynomial Regression to Predict Cost vs Units Sold](https://github.com/RyanRuddy/polynomial_regression/blob/main/Polynomial%20Regression-Predict%20Cost%20per%20Unit%20sold.ipynb)
 
 #[Multiple Regression to Predict House Prices in Boston](https://github.com/RyanRuddy/Boston-House-Price-Regression/blob/main/Multivariable%20Regression%20Predicting%20House%20Prices%20in%20Boston.ipynb)
 
